@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+env/
+venv/
+.venv/
+.conda/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.log
+
+# SQLite database
+*.sqlite3
+
+# Environment/config files
+*.env
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
